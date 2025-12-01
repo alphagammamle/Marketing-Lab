@@ -1,1 +1,92 @@
+# A/B Testing with Chocolate
 
+## Overview
+Students run a small in-class A/B test using chocolate samples to understand how **message framing**, **experiment design**, and **conversion measurement** work in marketing analytics.  
+The activity demonstrates core experiment principles: random assignment, treatment effects, measurement, and interpretation.
+
+## Learning Objectives
+- Understand the logic of A/B testing and causal inference.
+- Apply random assignment in a simple in-class experiment.
+- Measure and interpret conversion rates for two message conditions.
+- Recognize limitations and biases in small-sample marketing experiments.
+
+## Materials
+- Two types of chocolate OR one chocolate with two different message frames
+- Small sample cups or individually wrapped pieces
+- “Message A” and “Message B” cards (e.g., health vs indulgence framing)
+- Recording sheet or online form
+- Optional: projector for live result tallying
+
+## Preparation
+1. Decide on the two conditions:
+   - Two **different products** (dark vs milk), or
+   - One product with **two message framings** (e.g., “rich cocoa flavor” vs “guilt-free treat”).
+2. Prepare labels or message cards for the two versions.
+3. Create a simple data collection sheet with:
+   - Condition assignment  
+   - Choice/preference  
+   - Liking (1–5)  
+   - Purchase intent (1–5)  
+4. Prepare a slide showing how A/B testing works:
+   - Randomize → Expose → Measure → Compare
+
+## Procedure
+
+### Step 1 – Introduction (0–10 min)
+Briefly explain:
+- What A/B testing is  
+- Why randomization matters  
+- Real examples (email subject lines, ad creatives, landing pages)
+
+### Step 2 – Random Assignment (10–15 min)
+Randomly assign students to Group A or Group B:
+- Even rows = Group A  
+- Odd rows = Group B  
+- Or use random numbers / shuffled cards  
+
+### Step 3 – Treatment Exposure (15–25 min)
+Each group receives:
+- **Group A:** Chocolate + Message A  
+- **Group B:** Chocolate + Message B  
+
+Students taste the sample and complete the short response form.
+
+### Step 4 – Data Collection (25–35 min)
+Collect responses via paper or a simple Google Form.  
+Tally:
+- % preferring the chocolate  
+- Mean liking  
+- Mean purchase intent  
+- Conversion rate (e.g., “Would buy this today”)
+
+### Step 5 – Analysis (35–50 min)
+Compare the outcomes between A and B:
+- Did the message framing shift preference?  
+- Did liking or purchase intent differ?  
+- Which effect size seems meaningful (even if the sample is small)?  
+
+Discuss confounds:
+- Prior preferences  
+- Peer influence  
+- Sample size limitations  
+- Non-random compliance  
+
+### Step 6 – Debrief (50–60 min)
+Discuss how A/B testing applies to:
+- Digital ads  
+- Email campaigns  
+- Product pages  
+- Social media content  
+
+Introduce key concepts:
+- Control vs treatment  
+- Conversion  
+- Statistical significance vs managerial significance  
+
+## Reflection Prompt
+“What did this experiment reveal about how small changes in messaging influence consumer choices? What limitations should marketers keep in mind when interpreting A/B test results?”
+
+## Optional Extensions
+- Test **three conditions** (A/B/C).  
+- Add a **price frame** to observe willingness-to-pay.  
+- Have students design their own follow-up experiment.  
