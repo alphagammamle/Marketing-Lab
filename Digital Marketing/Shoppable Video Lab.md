@@ -72,5 +72,5 @@ Discuss strategic insights:
 - How interactivity shortens the path to purchase  
 - Ethical considerations in persuasive short-form content  
 
-## Reflection Prompt
+## Reflection 
 “What elements of your video design were most important for driving engagement or purchase? Which platform features shaped your creative decisions?”
